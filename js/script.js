@@ -7,6 +7,3 @@ var stampa = new Vue({
         message: "Ciao"
     }
 });
-
-// Bonus:
-// Aggiungere alla pagina un'immagine, presa anch'essa da un data.
